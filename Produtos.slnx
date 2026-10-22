@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Api/Api.csproj" DefaultStartup="true" />
+    <Project Path="src/Aplicacao/Aplicacao.csproj" />
+    <Project Path="src/Dominio/Dominio.csproj" />
+    <Project Path="src/Infraestrutura/Infraestrutura.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TestesUnitarios/TestesUnitarios.csproj" />
+  </Folder>
+</Solution>

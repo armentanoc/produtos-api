@@ -1,0 +1,28 @@
+[
+  {
+    "Name": "Api",
+    "Projects": [
+      {
+        "Path": "src\\Api\\Api.csproj",
+        "Action": "Start",
+        "DebugTarget": "Api"
+      },
+      {
+        "Path": "src\\Aplicacao\\Aplicacao.csproj",
+        "Action": "None"
+      },
+      {
+        "Path": "src\\Dominio\\Dominio.csproj",
+        "Action": "None"
+      },
+      {
+        "Path": "src\\Infraestrutura\\Infraestrutura.csproj",
+        "Action": "None"
+      },
+      {
+        "Path": "tests\\TestesUnitarios\\TestesUnitarios.csproj",
+        "Action": "None"
+      }
+    ]
+  }
+]

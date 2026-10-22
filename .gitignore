@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.db
+*.db-shm
+*.db-wal
+src/Api/dados/
+.vercel/
